@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.6",
+    "dayjs": "^1.10.7",
+    "unzipper": "^0.10.11"
+  },
+  "devDependencies": {
+    "@types/unzipper": "^0.10.4"
+  }
+}
